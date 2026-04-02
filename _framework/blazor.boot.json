@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WeddingRSVP",
   "resources": {
-    "hash": "sha256-A66HQh85PbboAroUeOZFnaNq3sduVy0j0vucSVB7SYo=",
+    "hash": "sha256-ptqDTEizKJV43DL8KRYH8rWDNdvaSV+pS67QZObPky4=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-A16ka545FHaB+QXjyJ4exXh7XpBAAIFnX8YkC4xAng8="
     },
@@ -104,7 +104,7 @@
       "System.wasm": "sha256-25KTxVbx+rD8S9iyUye7jmbj1e4TZ5Ca+elup4oegJA=",
       "netstandard.wasm": "sha256-MCpHYOAT4AJwIlmugVqeN/BtxgoCvD+18P/GsEsIb1k=",
       "System.Private.CoreLib.wasm": "sha256-LoRcjMc9NnbIPOVkrmVpvKOFys8urexgoOVsAJTjX3A=",
-      "WeddingRSVP.wasm": "sha256-2F9VlhqdvTPeGeWoGCboRdErMYEQpAE6efFd2515Ito="
+      "WeddingRSVP.wasm": "sha256-msK8C7SQwu9Hxv5P8T1SRUllOvDkglL3EHFPkLi5ivU="
     }
   },
   "cacheBootResources": true,
